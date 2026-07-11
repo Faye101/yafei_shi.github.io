@@ -12,9 +12,9 @@ profile:
     <p>fayeshi2025@163.com</p>
     <p>Beijing, China</p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false 
+selected_papers: false 
+social: true 
 ---
 
 Hi! I am **Yafei Shi (施雅菲)**, a Master's student in Technology Economics and Management at **Central University of Finance and Economics (CUFE)**, advised by Prof. Shandong Mou.
