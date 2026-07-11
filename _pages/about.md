@@ -44,7 +44,7 @@ I am seeking **PhD opportunities starting Fall 2027**. Feel free to reach out if
 **Beijing-Tianjin-Hebei Agricultural Supply Chain Resilience Coordination**
 <br>*Team Leader*
 - Built price prediction models using Random Forest, LSTM, and Graph Neural Networks (GNN); GNN achieved best performance across 1–5 day forecast horizons by capturing inter-product price dependencies.
-- Developed evolutionary game theory model (21 variables) and system dynamics simulation; designed three-tier emergency response mechanism with ML-based early warning, distributed micro-warehouses, and mobile retail vehicles for last-mile supply assurance.
+- Developed evolutionary game theory model (21 variables) and system dynamics simulation; awarded **Second Prize in Beijing Logistics Designing Competition**.
 
 **JD Warehouse Storage Location Allocation and AGV Path Planning**
 <br>*Team Leader*
@@ -67,8 +67,15 @@ I am seeking **PhD opportunities starting Fall 2027**. Feel free to reach out if
 
 ## Honors
 
-*National Scholarship, Xiaomi Scholarship (Top 0.1%), Outstanding Undergraduate Graduate of Beijing, Comprehensive Development First-Class Scholarship (3 times, Top 2%), Outstanding Student Cadre Award*
+- National Scholarship
+- Xiaomi Scholarship (Top 0.1%)
+- Outstanding Undergraduate Graduate of Beijing
+- Comprehensive Development First-Class Scholarship (3 times, Top 2%)
+- Outstanding Student Cadre Award
+- Outstanding "Three Good" Student (3 times) 
 
 ## Awards
 
-*National Second Prize (National Supply Chain Competition), Provincial Second Prize (Statistical Modeling Competition), Provincial Second Prize (Logistics Designing Competition)*
+- National Second Prize in National Supply Chain Competition
+- Provincial Second Prize in Statistical Modeling Competition
+- Provincial Second Prize in Logistics Designing Competition
