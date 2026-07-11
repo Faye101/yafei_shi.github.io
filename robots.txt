@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://faye101.github.io/sitemap.xml
