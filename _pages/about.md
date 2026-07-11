@@ -60,7 +60,7 @@ I am seeking **PhD opportunities starting Fall 2027**. Feel free to reach out if
   - Advanced Operations Research, Advanced Operations Management, Data-Driven Decision Making
 
 - **B.A. in Supply Chain Management**, CUFE (2021 – 2025)
-  - GPA: 90.11/100, Ranking: 2/38
+  - GPA: 90.11/100, Ranking: 3/38
   - IELTS: 6.5
 
 ---
